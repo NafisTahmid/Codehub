@@ -1,0 +1,42 @@
+[
+    {
+        "id":"1",
+        "name": "Depression Detection App",
+        "link": "https://depression-test-ml-app-xxxfqeccos9wdfee2jwleo.streamlit.app/",
+        "point1":"Original data. Collected from 612 responses.",
+        "point2":"Model trained using random forest where accuracy is 100%",
+        "point3":"25 questionarries."
+    },
+    {
+        "id": "2",
+        "name": "Full Stack Vegetable Shop",
+        "link": "https://vegetable-shop.onrender.com/",
+        "point1":"Add new vegetables to the list.",
+        "point2":"Update the existing vegetable",
+        "point3":"Delete vegetables"
+    },
+    {
+        "id": "3",
+        "name": "Blog Landing page",
+        "link":"https://blog-opening-page.netlify.app/",
+        "point1":"Single Page Application",
+        "point2":"Responsive Web Page",
+        "point3":"Made using React JS"
+    },
+    {
+        "id": "4",
+        "name": "Baraz Landing Page",
+        "link": "https://nafistahmid.github.io/baraz-bootstrap/",
+        "point1":"Single Page Application",
+        "point2":"Responsive Web Page",
+        "point3":"Made using React JS"
+    },
+    {
+        "id": "5",
+        "name": "E-Commerce Landing page",
+        "link": "https://demoe-commerce.netlify.app/",
+        "point1":"Single Page Application",
+        "point2":"Responsive Web Page",
+        "point3":"Made using React JS"
+    }
+]
